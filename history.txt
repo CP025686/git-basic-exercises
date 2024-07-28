@@ -1,0 +1,8 @@
+    1  cd git-basic-exercises
+    2  ls -a
+    3  git log
+    4  git checkout history
+    5  git log
+    6  git branch
+    7  git checkout history
+    8  history > history.txt
