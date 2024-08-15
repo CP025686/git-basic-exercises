@@ -5,3 +5,10 @@ Random joke
 I hurt my finger on my left hand but on the other hand, I'm alright
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>The End<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Knock Knock
+Whose There?
+?
+Whose There?
+Whose There?
+lol
+
